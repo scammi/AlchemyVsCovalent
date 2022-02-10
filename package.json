@@ -1,0 +1,23 @@
+{
+  "name": "alchemynft",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
