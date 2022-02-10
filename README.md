@@ -1,6 +1,6 @@
 
 **AlchemyNFT PROS**
--Simple
+- Simple
 - getNFT: includes NFT contract addresses and number count
 - getNFTMetadata: responses, able to get  metadata from URI
 - Already using alchemy
