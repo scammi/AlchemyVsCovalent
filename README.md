@@ -1,17 +1,14 @@
-**Run**
+**Run** `node index.js`
 
-`node index.js`
+**Install** `node install`
 
-**Install**
+**Compare test** `npm run test`
 
-`node install`
-
-**Compare test**
-
-`npm run test`
+## Speed test
+![alchemyVsCovalent](https://user-images.githubusercontent.com/40045101/153483010-6babe99d-61f9-4c24-b628-e2592ce6ee67.png)
 
 
-### Pros & Cons
+## Pros & Cons
 
 **AlchemyNFT PROS**
 - Simple
