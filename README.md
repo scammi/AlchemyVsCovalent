@@ -1,3 +1,17 @@
+**Run**
+
+`node index.js`
+
+**Install**
+
+`node install`
+
+**Compare test**
+
+`npm run test`
+
+
+### Pros & Cons
 
 **AlchemyNFT PROS**
 - Simple
