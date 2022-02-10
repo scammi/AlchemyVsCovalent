@@ -1,5 +1,5 @@
 
-## AlchemyNFT PROS
+**AlchemyNFT PROS**
 -Simple
 - getNFT: includes NFT contract addresses and number count
 - getNFTMetadata: responses, able to get  metadata from URI
@@ -10,7 +10,7 @@
 - unknown unknowns (new) 
 
 
-## Covalent PROS
+**Covalent PROS**
 - Free 
 - Clear limits: 20 concurrent requests, no volume limit
 - General-purpose queries single API
@@ -18,6 +18,6 @@
 - Response > 100 
 - Primer query language 
 	
-## Covalent CONS
+**Covalent CONS**
 - Balances_v2 API endpoint not specific for NFTs, the response needs parsing
 - Uncomplete documentation
