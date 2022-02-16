@@ -1,0 +1,451 @@
+{
+  "contract_decimals": 0,
+  "contract_name": "Charged Particles - Proton",
+  "contract_ticker_symbol": "PROTON",
+  "contract_address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060",
+  "supports_erc": [
+    "erc20",
+    "erc721"
+  ],
+  "logo_url": "https://logos.covalenthq.com/tokens/1/0xfb6075a3f960dbcd28ae4bb45092ce33d2909060.png",
+  "last_transferred_at": "2022-02-09T11:29:20Z",
+  "type": "nft",
+  "balance": "12",
+  "balance_24h": null,
+  "quote_rate": 0,
+  "quote_rate_24h": null,
+  "quote": 0,
+  "quote_24h": null,
+  "nft_data": [
+    {
+      "token_id": "11",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "22",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "33",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "34",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "14",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "15",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "26",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "16",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "18",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "8",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "9",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "21",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    }
+  ],
+  "chainId": 42
+}{
+  "contract_decimals": 0,
+  "contract_name": "Charged Particles - Proton",
+  "contract_ticker_symbol": "PROTON",
+  "contract_address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060",
+  "supports_erc": [
+    "erc20",
+    "erc721"
+  ],
+  "logo_url": "https://logos.covalenthq.com/tokens/1/0xfb6075a3f960dbcd28ae4bb45092ce33d2909060.png",
+  "last_transferred_at": "2022-02-09T11:29:20Z",
+  "type": "nft",
+  "balance": "12",
+  "balance_24h": null,
+  "quote_rate": 0,
+  "quote_rate_24h": null,
+  "quote": 0,
+  "quote_24h": null,
+  "nft_data": [
+    {
+      "token_id": "11",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "22",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "33",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "34",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "14",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "15",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "26",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "16",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "18",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "8",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "9",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    },
+    {
+      "token_id": "21",
+      "token_balance": "1",
+      "token_url": null,
+      "supports_erc": [
+        "erc20",
+        "erc721"
+      ],
+      "token_price_wei": null,
+      "token_quote_rate_eth": null,
+      "original_owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "external_data": null,
+      "owner": "0x7856c7f4a4fa0a65ed2950fbacfef7acb17555e6",
+      "owner_address": null,
+      "burned": null,
+      "contractAddress": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+    }
+  ],
+  "chainId": 42
+}
