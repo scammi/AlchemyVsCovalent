@@ -1,0 +1,475 @@
+{
+  "ownedNfts": [
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000009",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.286Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000008",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "NOISE",
+      "description": "Random entropy",
+      "tokenUri": {
+        "raw": "https://ipfs.infura.io/ipfs/QmTYTbA2EdqZAvQjgEA9GjupBj9f1LYrgpyjvQ6hWPW8YA",
+        "gateway": "https://ipfs.io/ipfs/QmTYTbA2EdqZAvQjgEA9GjupBj9f1LYrgpyjvQ6hWPW8YA"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.infura.io/ipfs/QmNY4nafzDdVmHM9e4WXi3inhz5GdiZ3dywiQgDhZhsJr9",
+            "gateway": "https://ipfs.io/ipfs/QmNY4nafzDdVmHM9e4WXi3inhz5GdiZ3dywiQgDhZhsJr9"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "Random entropy",
+        "external_url": "https://app.charged.fi/go/energize/0xfb6075A3f960DBcd28Ae4Bb45092ce33D2909060/{id}",
+        "animation_url": "",
+        "youtube_url": "",
+        "icon": "",
+        "image": "https://ipfs.infura.io/ipfs/QmNY4nafzDdVmHM9e4WXi3inhz5GdiZ3dywiQgDhZhsJr9",
+        "thumbnail": "https://ipfs.infura.io/ipfs/QmeoF9esTbEvbFAHXscUQV9sEicoWJQtwHXiSGF3hjG72S",
+        "name": "NOISE",
+        "symbol": "PROTON",
+        "background_color": "",
+        "attributes": [],
+        "creatorAnnuity": 0,
+        "particleType": "proton"
+      },
+      "timeLastUpdated": "2022-02-16T15:30:23.025Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x000000000000000000000000000000000000000000000000000000000000000e",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.521Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x000000000000000000000000000000000000000000000000000000000000000f",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.286Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x000000000000000000000000000000000000000000000000000000000000001a",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "NPC",
+      "description": "Non Player Character",
+      "tokenUri": {
+        "raw": "https://ipfs.infura.io/ipfs/QmcS6iM8DH3zJYuhbe8ptAQxgotsQED5j6sRHbUbYPRAEn",
+        "gateway": "https://ipfs.io/ipfs/QmcS6iM8DH3zJYuhbe8ptAQxgotsQED5j6sRHbUbYPRAEn"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.infura.io/ipfs/QmZr4gWvKiQgmAhhJTRe3i2boBcW1BZFZxdc2VCYH7yaXt",
+            "gateway": "https://ipfs.io/ipfs/QmZr4gWvKiQgmAhhJTRe3i2boBcW1BZFZxdc2VCYH7yaXt"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "Non Player Character",
+        "external_url": "http://localhost:8000/go/energize/0xfb6075A3f960DBcd28Ae4Bb45092ce33D2909060/{id}",
+        "animation_url": "",
+        "youtube_url": "",
+        "icon": "",
+        "image": "https://ipfs.infura.io/ipfs/QmZr4gWvKiQgmAhhJTRe3i2boBcW1BZFZxdc2VCYH7yaXt",
+        "thumbnail": "https://ipfs.infura.io/ipfs/QmcitZGm2TFzjpBXzw9MGe9j5GefhH8so3g1evNHDmFRNC",
+        "name": "NPC",
+        "symbol": "PROTON",
+        "background_color": "",
+        "attributes": [],
+        "creatorAnnuity": 0,
+        "particleType": "proton"
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.322Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x000000000000000000000000000000000000000000000000000000000000000b",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.339Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000010",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.341Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000021",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tablet",
+      "description": "asdf",
+      "tokenUri": {
+        "raw": "https://ipfs.infura.io/ipfs/QmYD28MgQddWSdGvg1HMX92T7HvutLon791uesT2EdM4vr",
+        "gateway": "https://ipfs.io/ipfs/QmYD28MgQddWSdGvg1HMX92T7HvutLon791uesT2EdM4vr"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.infura.io/ipfs/QmTgkmrQrRJP1Vt3YVRDLwd7mr3gAmNYnFgHrFWJzpCuRH",
+            "gateway": "https://ipfs.io/ipfs/QmTgkmrQrRJP1Vt3YVRDLwd7mr3gAmNYnFgHrFWJzpCuRH"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "asdf",
+        "external_url": "https://app.charged.fi/go/energize/0xfb6075A3f960DBcd28Ae4Bb45092ce33D2909060/{id}",
+        "animation_url": "",
+        "youtube_url": "",
+        "icon": "",
+        "image": "https://ipfs.infura.io/ipfs/QmTgkmrQrRJP1Vt3YVRDLwd7mr3gAmNYnFgHrFWJzpCuRH",
+        "thumbnail": "https://ipfs.infura.io/ipfs/QmQenjSusF57LbvYnoBWanR9ZjQZmNhoaeJJTgJ7QzqexU",
+        "name": "Tablet",
+        "symbol": "PROTON",
+        "background_color": "",
+        "attributes": [],
+        "creatorAnnuity": 10,
+        "particleType": "proton"
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.683Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000016",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.521Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000015",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.294Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000012",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Tree God",
+      "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+      "tokenUri": {
+        "raw": "https://gateway.pinata.cloud/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1",
+        "gateway": "https://ipfs.io/ipfs/QmQxDjEhnYP6QAtLRyLV9N7dn1kDigz7iWnx5psmyXqy35/1"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+            "gateway": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "It was a strange little thing, this god: Born from lumber and leaves. A being of wood and amber blood, with roots so deep and branches so large.   Rain-scented spring-bearer, howling in the wind.",
+        "image": "https://ipfs.io/ipfs/QmdXgNrYqPMAKHAzAgDLYcEGwdW86b78RfnpKWfFnBERNZ",
+        "name": "Tree God",
+        "attributes": [
+          {
+            "trait_type": "rarity",
+            "value": "100"
+          }
+        ]
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.522Z"
+    },
+    {
+      "contract": {
+        "address": "0xfb6075a3f960dbcd28ae4bb45092ce33d2909060"
+      },
+      "id": {
+        "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000022",
+        "tokenMetadata": {
+          "tokenType": "ERC721"
+        }
+      },
+      "title": "Golden",
+      "description": "Solid gold",
+      "tokenUri": {
+        "raw": "https://ipfs.infura.io/ipfs/QmRQNeVK9cJmpu4gH3Tp7GgM71yK1LKtGkeQXbotwmSRCc",
+        "gateway": "https://ipfs.io/ipfs/QmRQNeVK9cJmpu4gH3Tp7GgM71yK1LKtGkeQXbotwmSRCc"
+      },
+      "media": [
+        {
+          "uri": {
+            "raw": "https://ipfs.infura.io/ipfs/QmdUHNmiznY9CGeMaxZNd4CS7x5SyGvkC9rD6ywMhnnRKk",
+            "gateway": "https://ipfs.io/ipfs/QmdUHNmiznY9CGeMaxZNd4CS7x5SyGvkC9rD6ywMhnnRKk"
+          }
+        }
+      ],
+      "metadata": {
+        "description": "Solid gold",
+        "external_url": "http://localhost:8000/go/energize/0xfb6075A3f960DBcd28Ae4Bb45092ce33D2909060/{id}",
+        "animation_url": "",
+        "youtube_url": "",
+        "icon": "",
+        "image": "https://ipfs.infura.io/ipfs/QmdUHNmiznY9CGeMaxZNd4CS7x5SyGvkC9rD6ywMhnnRKk",
+        "thumbnail": "https://ipfs.infura.io/ipfs/QmdCHMUxxgKCNicBg8LjUcc8Eub2MTFHDpNNHhkUDdZBKi",
+        "name": "Golden",
+        "symbol": "PROTON",
+        "background_color": "",
+        "attributes": [
+          {
+            "name": "weight",
+            "value": "70"
+          },
+          {
+            "name": "purity",
+            "value": "99"
+          }
+        ],
+        "creatorAnnuity": 35,
+        "particleType": "proton"
+      },
+      "timeLastUpdated": "2022-02-16T15:30:20.492Z"
+    }
+  ],
+  "totalCount": 12,
+  "blockHash": "0x621a36337a8ff4f1ec8158bd201ab174f72bc5b6f8bab359887c2c9c5bb42c1a"
+}

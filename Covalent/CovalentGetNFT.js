@@ -10,10 +10,12 @@ export default function CovalentGetNFT() {
   
   // Replace with your Alchemy API key:
   const apiKey = process.env.apiKeyCovalent;
+  const baseUri = "https://api.covalenthq.com/v1/{endpoint}"
   // Replace with the wallet address you want to query:
-  const ownerAddr = "0xF5FFF32CF83A1A614e15F25Ce55B0c0A6b5F8F2c";
-  const fetchURL = `1/address/${ownerAddr}/balances_v2/?key=${apiKey}&nft=true&no-nft-fetch=true&match={"type":"nft"}`;
+  const ownerAddr = "0x277BFc4a8dc79a9F194AD4a83468484046FAFD3A";
+  const apiUrl = `42/address/${ownerAddr}/balances_v2/?key=${apiKey}&nft=true&no-nft-fetch=true&match={"type":"nft"}`;
   
+  const fetchURL = baseUri.replace('{endpoint}', apiUrl)
   // Make the request and print the formatted response:
   const request = fetch(fetchURL, requestOptions)
     .then(response => response.json())
